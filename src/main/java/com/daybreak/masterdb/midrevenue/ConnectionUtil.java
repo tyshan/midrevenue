@@ -7,7 +7,7 @@ public class ConnectionUtil {
 
 	private static final String driver = "com.mysql.jdbc.Driver";
 
-	private static final String url = "jdbc:mysql://127.0.0.1:3306/daybreak";
+	private static final String url = "jdbc:mysql://127.0.0.1:3306/masterdb";
 
 	private static final String user = "root";
 
@@ -18,7 +18,6 @@ public class ConnectionUtil {
 		try {
 			Class.forName(driver);
 		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}

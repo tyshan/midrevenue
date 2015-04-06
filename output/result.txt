@@ -1,0 +1,633 @@
+Hello World!
+for parsing ### $10 mil. - $25 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### $1 bil. - $5 bil.
+first unit ### 1000000000,lastunit ### 1000000000
+worked ### 1,5
+for parsing ### $1 mil. - $5 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,5
+for parsing ### $10 mil. - $25 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### $0 - 1m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 0,1
+for parsing ### $1 - 10m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,10
+for parsing ### $1 - 10m.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,10
+for parsing ### $1 - 2.5 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,2.5
+for parsing ### $1 - 2.9 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,2.9
+for parsing ### $1 - 3.9 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,3.9
+for parsing ### $1 - 4.9 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,4.9
+for parsing ### $1 bil - $5 bil
+first unit ### 1000000000,lastunit ### 1000000000
+worked ### 1,5
+for parsing ### $1 bil. - $5 b
+first unit ### 1000000000,lastunit ### 1000000000
+worked ### 1,5
+for parsing ### $1 bil. - $5 bi
+first unit ### 1000000000,lastunit ### 1000000000
+worked ### 1,5
+for parsing ### $1 bil. - $5 bil
+first unit ### 1000000000,lastunit ### 1000000000
+worked ### 1,5
+for parsing ### $1 bil. - $5 bil.
+first unit ### 1000000000,lastunit ### 1000000000
+worked ### 1,5
+for parsing ### $1 mil - $5 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,5
+for parsing ### $1 mil. - $5 m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,5
+for parsing ### $1 mil. - $5 mi
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,5
+for parsing ### $1 mil. - $5 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,5
+for parsing ### $1 mil. - $5 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,5
+for parsing ### $1 to 2.5 m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,2.5
+for parsing ### $1 to 2.5 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,2.5
+for parsing ### $1 to 2.5 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,2.5
+for parsing ### $10 - 20 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,20
+for parsing ### $10 - 50m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,50
+for parsing ### $10 mil - $25 mi
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### $10 mil - $25 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### $10 mil. - $20 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,20
+for parsing ### $10 mil. - $25
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### $10 mil. - $25 m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### $10 mil. - $25 mi
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### $10 mil. - $25 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### $10 mil. - $25 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### $10 mil. - $25 mil. 50 - 100
+can't parse!
+for parsing ### $10 mil. - $25 ml
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### $10 mil. - $50 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,50
+for parsing ### $10 to 20 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,20
+for parsing ### $10 to 20 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,20
+for parsing ### $100 - 250m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,250
+for parsing ### $100 mil - $250 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,250
+for parsing ### $100 mil. - $250
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,250
+for parsing ### $100 mil. - $250 mi
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,250
+for parsing ### $100 mil. - $250 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,250
+for parsing ### $100 mil. - $250 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,250
+for parsing ### $100 mil. - $500 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,500
+for parsing ### $100 to 500
+first unit ### 1,lastunit ### 1
+worked ### 100,500
+for parsing ### $100 to 500 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,500
+for parsing ### $100,001 to $500,000
+first unit ### 1,lastunit ### 1
+worked ### 100001,500000
+for parsing ### $100001 to $500000
+first unit ### 1,lastunit ### 1
+worked ### 100001,500000
+for parsing ### $10m - $50m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,50
+for parsing ### $10mil - $20mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,20
+for parsing ### $14 to $16 min
+first unit ### 1000000,lastunit ### 1000000
+worked ### 14,16
+for parsing ### $15 mil - $200 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 15,200
+for parsing ### $1mil-$5mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,5
+for parsing ### $2 bil. - $5 bil
+first unit ### 1000000000,lastunit ### 1000000000
+worked ### 2,5
+for parsing ### $2 bil. - $5 bil.
+first unit ### 1000000000,lastunit ### 1000000000
+worked ### 2,5
+for parsing ### $2 mil. - $5 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 2,5
+for parsing ### $2 mil. - $5 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 2,5
+for parsing ### $2.5 - 5 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 2.5,5
+for parsing ### $2.5 to 5 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 2.5,5
+for parsing ### $20 - 50 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 20,50
+for parsing ### $20 to 50
+first unit ### 1,lastunit ### 1
+worked ### 20,50
+for parsing ### $20 to 50 m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 20,50
+for parsing ### $20 to 50 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 20,50
+for parsing ### $2000 mil. - $2500 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 2000,2500
+for parsing ### $2000 mil. - $5000 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 2000,5000
+for parsing ### $2000mil. - $5000 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 2000,5000
+for parsing ### $20mil - $50 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 20,50
+for parsing ### $25 mil - $50 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 25,50
+for parsing ### $25 mil. - $50 mi
+first unit ### 1000000,lastunit ### 1000000
+worked ### 25,50
+for parsing ### $25 mil. - $50 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 25,50
+for parsing ### $25 mil. - $50 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 25,50
+for parsing ### $250 - 500m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 250,500
+for parsing ### $250 mil - $500 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 250,500
+for parsing ### $250 mil. - $500 mi
+first unit ### 1000000,lastunit ### 1000000
+worked ### 250,500
+for parsing ### $250 mil. - $500 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 250,500
+for parsing ### $250 mil. - $500 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 250,500
+for parsing ### $25m-$500m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 25,500
+for parsing ### $2mil. - $5 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 2,5
+for parsing ### $3000 mil. - $5000 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 3000,5000
+for parsing ### $3100 to $2550
+can't parse!
+for parsing ### $5 mil - $10 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### $5 mil - $100 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,100
+for parsing ### $5 mil - $20 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,20
+for parsing ### $5 mil - $50 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,50
+for parsing ### $5 mil - $900 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,900
+for parsing ### $5 mil. - $10
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### $5 mil. - $10 m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### $5 mil. - $10 mi
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### $5 mil. - $10 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### $5 mil. - $10 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### $5 mil. - $100 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,100
+for parsing ### $5 to 10 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### $5-10m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### $50 - 100m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### $50 mil - $100 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### $50 mil - $100mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### $50 mil. - $100 m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### $50 mil. - $100 mi
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### $50 mil. - $100 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### $50 mil. - $100 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### $50 mil. - $900 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,900
+for parsing ### $50 to 100
+first unit ### 1,lastunit ### 1
+worked ### 50,100
+for parsing ### $50 to 100 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### $50-$100 million
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### $500 mil - $1 bil
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### $500 mil. - $1 bi
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### $500 mil. - $1 bil
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### $500 mil. - $1 bil.
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### $500 mil. - $2 bil
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,2
+for parsing ### $500 mil. - $3 bil.
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,3
+for parsing ### $500 million to $1 billion
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### $500,000 - $1
+can't parse!
+for parsing ### $500,000 - $1 m
+first unit ### 1,lastunit ### 1000000
+worked ### 500000,1
+for parsing ### $500,000 - $1 mi
+first unit ### 1,lastunit ### 1000000
+worked ### 500000,1
+for parsing ### $500,000 - $1 mil
+first unit ### 1,lastunit ### 1000000
+worked ### 500000,1
+for parsing ### $500,000 - $1 mil.
+first unit ### 1,lastunit ### 1000000
+worked ### 500000,1
+for parsing ### $500,000 - 1 million
+first unit ### 1,lastunit ### 1000000
+worked ### 500000,1
+for parsing ### $500,000 to $1 million
+first unit ### 1,lastunit ### 1000000
+worked ### 500000,1
+for parsing ### $5000 mil. - $3 bil.
+can't parse!
+for parsing ### $500000 - $1 mil
+first unit ### 1,lastunit ### 1000000
+worked ### 500000,1
+for parsing ### $500000 - $1 mil.
+first unit ### 1,lastunit ### 1000000
+worked ### 500000,1
+for parsing ### $500m - $1b
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### $500m - 1b
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### $500mm - $1b
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### (352) 666-0159
+can't parse!
+for parsing ### (407) 835-0072$5 mil. - $10 mil.
+can't parse!
+for parsing ### (509) 575-8700
+can't parse!
+for parsing ### (512) 428-1287
+can't parse!
+for parsing ### (805) 933-9160
+can't parse!
+for parsing ### 0 - 25
+can't parse!
+for parsing ### 0 mil. - $25 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 0,25
+for parsing ### 02mm- 05mm
+first unit ### 1000000,lastunit ### 1000000
+worked ### 02,05
+for parsing ### 1 - 5
+can't parse!
+for parsing ### 1 bil. - $5 bil
+first unit ### 1000000000,lastunit ### 1000000000
+worked ### 1,5
+for parsing ### 1 bil. - $5 bil.
+first unit ### 1000000000,lastunit ### 1000000000
+worked ### 1,5
+for parsing ### 1 mil. - $5 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,5
+for parsing ### 1 to 5
+can't parse!
+for parsing ### 1,000 - 5,000
+can't parse!
+for parsing ### 10 - 20
+can't parse!
+for parsing ### 10 mil. - $25 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### 10 mil. - $25 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,25
+for parsing ### 10 to 20
+can't parse!
+for parsing ### 10-may
+can't parse!
+for parsing ### 100 - 249
+can't parse!
+for parsing ### 100 - 250
+can't parse!
+for parsing ### 100 - 500
+can't parse!
+for parsing ### 100 mil. - $250 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,250
+for parsing ### 100 mil. - $250 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,250
+for parsing ### 1000 - 4999
+can't parse!
+for parsing ### 100mm - 25000m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,25000
+for parsing ### 100mm - 500m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,500
+for parsing ### 100mm - 500mm
+first unit ### 1000000,lastunit ### 1000000
+worked ### 100,500
+for parsing ### 10mm - 20m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,20
+for parsing ### 10mm - 20mm
+first unit ### 1000000,lastunit ### 1000000
+worked ### 10,20
+for parsing ### 10to20
+can't parse!
+for parsing ### 1mm - 2.5mm
+first unit ### 1000000,lastunit ### 1000000
+worked ### 1,2.5
+for parsing ### 1to5
+can't parse!
+for parsing ### 2.5mm - 5mm
+first unit ### 1000000,lastunit ### 1000000
+worked ### 2.5,5
+for parsing ### 20 - 49
+can't parse!
+for parsing ### 20 - 50
+can't parse!
+for parsing ### 20-oct
+can't parse!
+for parsing ### 20-sep
+can't parse!
+for parsing ### 20mm - 50m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 20,50
+for parsing ### 20mm - 50mm
+first unit ### 1000000,lastunit ### 1000000
+worked ### 20,50
+for parsing ### 25 - 100
+can't parse!
+for parsing ### 25 mil. - $50 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 25,50
+for parsing ### 25 mil. - $50 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 25,50
+for parsing ### 250 - 1000
+can't parse!
+for parsing ### 250 - 499
+can't parse!
+for parsing ### 250 - 500
+can't parse!
+for parsing ### 250 mil. - $500 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 250,500
+for parsing ### 255 mil. - $500 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 255,500
+for parsing ### 2mm - 2.5mm
+first unit ### 1000000,lastunit ### 1000000
+worked ### 2,2.5
+for parsing ### 305-593-6033
+can't parse!
+for parsing ### 330) 849-5599
+can't parse!
+for parsing ### 5 - 10
+can't parse!
+for parsing ### 5 mil. - $10 mil
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### 5 mil. - $10 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### 5 to  10
+can't parse!
+for parsing ### 5 to 10
+can't parse!
+for parsing ### 5 to 9
+can't parse!
+for parsing ### 5 to10
+can't parse!
+for parsing ### 5,000 - 10,000
+can't parse!
+for parsing ### 5,000 - 10,002
+can't parse!
+for parsing ### 50 - 100
+can't parse!
+for parsing ### 50 - 99
+can't parse!
+for parsing ### 50 mil. - $100 mi
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### 50 mil. - $100 mil.
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### 50-100
+can't parse!
+for parsing ### 500 - 1,000
+can't parse!
+for parsing ### 500 - 999
+can't parse!
+for parsing ### 500 mil. - $1 bil
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### 500 mil. - $1 bil.
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### 500,000 - $1 mil
+first unit ### 1,lastunit ### 1000000
+worked ### 500000,1
+for parsing ### 500,000 - $1 mil.
+first unit ### 1,lastunit ### 1000000
+worked ### 500000,1
+for parsing ### 5000 - 9999
+can't parse!
+for parsing ### 500k - 1mm
+first unit ### 1000,lastunit ### 1000000
+worked ### 500,1
+for parsing ### 500k - 2mm
+first unit ### 1000,lastunit ### 1000000
+worked ### 500,2
+for parsing ### 500mm - 1b
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,1
+for parsing ### 500mm - 2b
+first unit ### 1000000,lastunit ### 1000000000
+worked ### 500,2
+for parsing ### 50mm - 100m
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### 50mm - 100mm
+first unit ### 1000000,lastunit ### 1000000
+worked ### 50,100
+for parsing ### 5261-08
+can't parse!
+for parsing ### 5mm - 10mm
+first unit ### 1000000,lastunit ### 1000000
+worked ### 5,10
+for parsing ### 5to10
+can't parse!
+for parsing ### 615-443-9818
+can't parse!
+for parsing ### 925-283-4984
+can't parse!
+for parsing ### :$1 bil. - $5 b
+can't parse!
+for parsing ### :$1 bil. - $5 bil.
+can't parse!
+for parsing ### :$1 mil - $5 mil
+can't parse!
+for parsing ### :$1 mil. - $5
+can't parse!
+for parsing ### :$1 mil. - $5 mil.
+can't parse!
+for parsing ### :$10 mil. - $25 m
+can't parse!
+for parsing ### :$10 mil. - $25 mi
+can't parse!
+for parsing ### :$10 mil. - $25 mil
+can't parse!
+for parsing ### :$10 mil. - $25 mil.
+can't parse!
+for parsing ### :$100 mil. - $250 mil.
+can't parse!
+for parsing ### :$2 mil. - $5 mil.
+can't parse!
+for parsing ### :$25 mil. - $50 mil.
+can't parse!
+for parsing ### :$250 mil. - $500 mil.
+can't parse!
+for parsing ### :$5 mil. - $10 mil.
+can't parse!
+for parsing ### :$50 mil. - $100 mil.
+can't parse!
+for parsing ### :$500 mil. - $1 bil
+can't parse!
+for parsing ### :$500 mil. - $1 bil.
+can't parse!
+for parsing ### :$500,000 - $1 mil.
+can't parse!
+for parsing ### :$500000 - $1 mil
+can't parse!
+for parsing ### :5 - 10
+can't parse!
+for parsing ### :500 - 1,000
+can't parse!
+for parsing ### e:$1 mil. - $5 mil.
+can't parse!
+for parsing ### e:$10 mil. - $25 mil.
+can't parse!
+for parsing ### employees:20 - 50
+can't parse!
+for parsing ### employees:5 - 10
+can't parse!
+for parsing ### gmacm-ca.com
+can't parse!
+for parsing ### mil. - $10 mil.
+can't parse!

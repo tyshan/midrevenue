@@ -2,6 +2,8 @@ package com.daybreak.masterdb.midrevenue;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 
 public class RevenueDAO {
 
@@ -14,13 +16,27 @@ public class RevenueDAO {
 	public static void update(String origin, String dest) {
 		final String sql = "update masterdb1 set f17=?,status=\'U\' where f17=? and status is null or status=\'\'";
 		Connection connection = ConnectionUtil.getConnection();
+		PreparedStatement pstmt=null;
 		try {
-			PreparedStatement pstmt = connection.prepareStatement(sql);
+			pstmt = connection.prepareStatement(sql);
 			pstmt.setString(1, dest);
 			pstmt.setString(2, origin);
 			pstmt.executeUpdate();
 		} catch (Exception e) {
 			e.printStackTrace();
+		}finally{
+			if(pstmt!=null){
+				try {
+					pstmt.close();
+				} catch (SQLException e) {
+				}
+			}
+			if(connection!=null){
+				try {
+					connection.close();
+				} catch (SQLException e) {
+				}
+			}
 		}
 	}
 

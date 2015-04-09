@@ -22,7 +22,7 @@ public class MidRevenue {
 			} else {
 				DecimalFormat df = new DecimalFormat("#000");
 				// System.out.println(result);
-				RevenueDAO.update(rev, df.format(result));
+				RevenueDAO.update(s, df.format(result));
 			}
 		}
 	}

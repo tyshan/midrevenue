@@ -13,7 +13,7 @@ public class RevenueDAO {
 	 */
 
 	public static void update(String origin, String dest) {
-		final String sql = "update masterdb1 set f17=?,status=\'U\' where f17=? and (status is null or status=\'\')";
+		final String sql = "update masterdb1 set f17=?,f33=\'U\' where f17=? and (f33=\'\' or f33!=\'U\')";
 		Connection connection = ConnectionUtil.getConnection();
 		PreparedStatement pstmt = null;
 		try {

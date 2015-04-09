@@ -2,13 +2,12 @@ package com.daybreak.masterdb.midrevenue;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class RevenueDAO {
 
 	/**
-	 * update f16 from origin value to the dested value and add a signal U for
+	 * update f17 from origin value to the dested value and add a signal U for
 	 * updating
 	 * 
 	 */

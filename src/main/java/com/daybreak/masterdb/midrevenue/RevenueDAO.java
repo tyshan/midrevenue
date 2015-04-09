@@ -14,9 +14,9 @@ public class RevenueDAO {
 	 */
 
 	public static void update(String origin, String dest) {
-		final String sql = "update masterdb1 set f17=?,status=\'U\' where f17=? and status is null or status=\'\'";
+		final String sql = "update masterdb1 set f17=?,status=\'U\' where lower(f17)=? and status is null or status=\'\'";
 		Connection connection = ConnectionUtil.getConnection();
-		PreparedStatement pstmt=null;
+		PreparedStatement pstmt = null;
 		try {
 			pstmt = connection.prepareStatement(sql);
 			pstmt.setString(1, dest);
@@ -24,14 +24,14 @@ public class RevenueDAO {
 			pstmt.executeUpdate();
 		} catch (Exception e) {
 			e.printStackTrace();
-		}finally{
-			if(pstmt!=null){
+		} finally {
+			if (pstmt != null) {
 				try {
 					pstmt.close();
 				} catch (SQLException e) {
 				}
 			}
-			if(connection!=null){
+			if (connection != null) {
 				try {
 					connection.close();
 				} catch (SQLException e) {

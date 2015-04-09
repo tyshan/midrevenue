@@ -12,6 +12,9 @@ public class MidRevenue {
 		for (String s : revenues) {
 			String rev = StringUtils.trim(s).toLowerCase();
 			System.out.println("for parsing ### " + rev);
+			if (rev.indexOf("#") >= 0) {
+				continue;
+			}
 			BigDecimal result = ParseUtil.parse(rev);
 			if (result.equals(BigDecimal.ZERO)) {
 				System.out.println("can't parse!");

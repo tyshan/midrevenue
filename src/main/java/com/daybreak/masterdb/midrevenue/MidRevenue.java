@@ -18,6 +18,7 @@ public class MidRevenue {
 				continue;
 			} else {
 				DecimalFormat df = new DecimalFormat("#000");
+				// System.out.println(result);
 				RevenueDAO.update(rev, df.format(result));
 			}
 		}
